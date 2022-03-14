@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/duc-van-le-3a566032/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0115-8726"
   pinterest        :
   soundcloud       :
@@ -173,16 +173,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  service:
     output: true
     permalink: /:collection/:path/
-  talks:
+  cv:
     output: true
     permalink: /:collection/:path/
 
@@ -207,15 +204,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -225,21 +213,20 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _service
   - scope:
       path: ""
-      type: portfolio
+      type: service
     values:
-      layout: single
+      layout: service
       author_profile: true
       share: true
-      comment: true
-  # _talks
+   # _cv
   - scope:
       path: ""
-      type: talks
+      type: cv
     values:
-      layout: talk
+      layout: cv
       author_profile: true
       share: true
 

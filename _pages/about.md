@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a research fellow working in the [NTU IoT Sensing Group](https://ntuiot.xyz/) at Nanyang Technological University, Singapore. My fundamental background and broad coursework lie in the field of wireless communication, sensing and computing systems. My research interests mainly focuse on networked sensing, distributed computing, and learning-based control in cyber-physical system (CPS) and internet of things (IoT) systems, including the sensor networks, mobile edge computing, data centers and visual sensing systems.
+
+I obtained my B.Eng. degree (9/2006-6/2011) in electronics and telecommunications engineering from the Le Quy Don Technical University, Vietnam, and Ph.D. degree (9/2011-12/2015) in computer engineering from the University of Ulsan, South Korea. Previously, I worked as a research fellow in th Department of Computer Science, National University of Singapore (NUS) from 1/2016 to 3/2018.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

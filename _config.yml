@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Duc Van Le"
   avatar           : "profile-photo.jpg"
-  bio              : "Research Fellow at Nanyang Technological University"
-  location         : "Singapore"
+  bio              : "Research Fellow"
+  location         : "Nanyang Technological University"
   googlescholar    : "https://scholar.google.com/citations?user=fdUUM8kAAAAJ&hl=en"
   email            : "vdle@ntu.edu.sg"
-  researchgate     :  "https://www.researchgate.net/profile/Duc-Le-24"
+  researchgate     : "https://www.researchgate.net/profile/Duc-Le-24"
   uri              :
   bitbucket        :
   codepen          :
